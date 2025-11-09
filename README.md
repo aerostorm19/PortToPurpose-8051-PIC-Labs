@@ -6,11 +6,11 @@
 ## Why This Exists
 
 I never cared much for documentation. I believed working code was enough.  
-But embedded systems don’t just run—they signal, pulse, and interface with the real world.  
+But embedded systems don’t just run they signal, pulse, and interface with the real world.  
 And when the external examiner wants more than just blinking LEDs, you better have proof, process, and presentation.
 
 This repo is my journaled journey through microcontroller practicals—executed on 8051 and PIC18F4520.  
-It’s not just code. It’s a portfolio of understanding, a record of resilience, and a tribute to timing.
+It’s not just code. It’s a portfolio of understanding, a record of resilience, and a tribute to timing proof that I’ve built something real and learned more than I expected, even if I’m pushing it all at once. Irony, maybe. Growth, definitely.
 
 ---
 
