@@ -1,5 +1,5 @@
 # PortToPurpose-8051-PIC-Labs
-### "I used to skip journaling. Now I document like I debug—precise, relentless, and with style."
+### "I used to skip journaling. Now I document like I debug precise, relentless, and with style. As this what people actually see. So here it is! Guys and I do hope that it helps you all also in learning as it did for me."
 
 ---
 
